@@ -14,8 +14,8 @@ development:
   reconnect: false
   database: simple_cms_development
   pool: 5
-  username: simple_cms
-  password: secretpassword
+  username: root
+  password: 
   socket: /tmp/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
